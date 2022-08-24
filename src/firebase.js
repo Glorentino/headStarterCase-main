@@ -7,13 +7,6 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA3qbqmutpmwwVSqKbZtA1XvckgjLpX6IU",
-  authDomain: "headstartergroup.firebaseapp.com",
-  databaseURL: "https://headstartergroup-default-rtdb.firebaseio.com",
-  projectId: "headstartergroup",
-  storageBucket: "headstartergroup.appspot.com",
-  messagingSenderId: "145286482610",
-  appId: "1:145286482610:web:dfa3f2bbb152171a8fd7ab"
 };
 
 // Initialize Firebase
